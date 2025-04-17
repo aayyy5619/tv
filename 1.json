@@ -4,7 +4,6 @@
  "sites": [
 {"key":"小苹果","name":"Apple","type":3,"api":"csp_LiteApple","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"爱看机器人","name": "IkanBot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"},
-{"key":"哔哩哔哩","name":"哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./Bili.json"},
 
 {"key": "虎牙直播","name": "虎牙直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./虎牙直播.json"},
 {"key": "斗鱼直播","name": "斗鱼直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./斗鱼直播.json"},
