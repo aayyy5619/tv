@@ -17,7 +17,7 @@
   {"key": "胖虎","name": "胖虎","type": 3,"api": "./js/胖虎.py","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "剧粑粑","name": "剧粑粑","type": 3,"api": "./js/剧粑粑.py","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "小红","name": "小红","type": 3,"api": "./js/小红.py","searchable": 1,"quickSearch": 1,"filterable": 1},
-  {"key": "旺旺","name": "旺旺","type": 3,"api": "./js/旺旺.py","searchable": 1,"quickSearch": 1,"filterable": 1},
+  {"key": "旺旺","name": "旺旺","type": 3,"api": "./js/旺旺.py","searchable": 1,"quickSearch": 1,"filterable": 1}
   ],
 
     "parses": [
